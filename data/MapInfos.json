@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"oHouse","order":1,"parentId":0,"scrollX":1638,"scrollY":922},
-{"id":2,"expanded":true,"name":"iHouse","order":2,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":3,"expanded":false,"name":"Plateau","order":4,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"dungeon","order":3,"parentId":2,"scrollX":3030.5454545454545,"scrollY":2443.6363636363635}
-]
